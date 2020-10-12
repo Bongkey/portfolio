@@ -11273,6 +11273,6 @@ form .row:first-child .floating-label-form-group {
 }
 
 .item-details img {
-  width: 200px;
-  height: 100px;
+  max-width: 330px;
+  height: 120px;
 }
