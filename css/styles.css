@@ -11351,3 +11351,10 @@ form .row:first-child .floating-label-form-group {
   max-width: 330px;
   height: 120px;
 }
+
+@media (max-width: 576px) {
+  .divider-custom img {
+    width: 75px;
+    height: 75px;
+  }
+}
