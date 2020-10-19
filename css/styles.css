@@ -11329,4 +11329,45 @@ form .row:first-child .floating-label-form-group {
     width: 75px;
     height: 75px;
   }
+
+  .divider-custom-icon {
+    font-size: 18px;
+  }
+}
+
+.subject {
+  text-align: left;
+}
+
+
+.subject .subject-sharp {
+  list-style: "#";
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.subject .subject-check {
+  list-style: "✅";
+}
+
+.skill {
+  margin-top: 10px;
+  margin-right: 5px;
+  display: inline-block;
+  width: 75px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: #50bb9c;
+  color: #fff;
+}
+
+.paragraph {
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+.gif {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
 }
